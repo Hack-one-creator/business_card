@@ -1,0 +1,27 @@
+body {
+    margin: 20px;   
+}
+
+.card {
+    margin: 0 auto;
+    width: 600px;
+    padding: 20px;
+    display:flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    color: black;
+    border-bottom: 9px solid #d8cefe;
+
+}
+
+.border_blue {
+    border: 1px dotted blue;    
+}
+
+.align {
+    text-align: center;
+}
+
+.avatar {
+    width: 360px;
+}
